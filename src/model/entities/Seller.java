@@ -24,7 +24,7 @@ public class Seller implements Serializable {
 	}
 
 	public Seller() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public Integer getId() {
